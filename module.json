@@ -10,6 +10,6 @@
 	"minimumCoreVersion": "0.4.4",
 	"compatibleCoreVersion": "0.7.8",
     "url": "https://github.com/UberV/scaleGrid/",
-    "manifest": "https://raw.githubusercontent.com/UberV/scaleGrid/master/module.json",
-    "download": "https://github.com/UberV/scaleGrid/archive/master.zip"
+    "manifest": "https://raw.githubusercontent.com/xmclark/scaleGrid/fix-initialization-error/module.json",
+    "download": "https://github.com/xmclark/scaleGrid/archive/fix-initialization-error.zip"
 }
